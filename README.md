@@ -1,4 +1,4 @@
-# Credit_risk_assesment
+# Credit_risk_assessment
 
 This project leverages machine learning to assess the credit risk of loan applicants based on various financial and demographic factors. The project includes a trained model, an interactive Streamlit application for real-time predictions, and explainability features using SHAP.
 
